@@ -8,7 +8,7 @@
 #### For making everything easy, I would suggest you to use this method:
 #### <br/>
 ```py
-from sherok import *
+from sherok import * # pip install sherok
 ```
 ### 1) Maths (add2nums, sub2nums, mul2nums and div2nums)
 #### <br/>
